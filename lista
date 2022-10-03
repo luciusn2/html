@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+table,td,th{border: 1px solid black;
+border-collapse:collapse;}
+</style>
+</head>
+<body >
+
+<h1 style="color:purple">Jogos</h1>
+
+<table style="width:100%" >
+<tr>
+<td><b>Jogos Inde</td>
+<td><b>Estilo</td>
+</tr>
+<tr>
+<td>Hollow Knight</td>
+<td>Metroid Vania</td>
+</tr>
+<td>Dead Cells</td>
+<td>Rogue Like</td>
+<tr>
+<td>Celeste</td>
+<td>Plataforma</td>
+
+</tr>
+</table>
+<p></p>
+<img width="150" height="250" src="https://tm.ibxk.com.br/2019/03/12/12145153734182.jpg">
+<img width="150" height="250" src="https://i.pinimg.com/736x/77/d4/30/77d430e222e3978f3ac5fbd317d1b3d2.jpg">
+<img widht="150" height="250" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRK10xgyusyjdHxN7LHmSRwdrdMZzlykfPtQ&usqp=CAU">
+
+
+</body>
+</html>
+
+
